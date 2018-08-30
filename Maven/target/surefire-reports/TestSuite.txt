@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.708 s <<< FAILURE! - in TestSuite
+Arithmetic(testmodule.RestapiTest)  Time elapsed: 0.016 s  <<< FAILURE!
+java.lang.ArithmeticException: / by zero
+	at testmodule.RestapiTest.Arithmetic(RestapiTest.java:30)
+
